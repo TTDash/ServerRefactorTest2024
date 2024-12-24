@@ -1,0 +1,16 @@
+syntax: glob
+*.ncb
+*.suo
+*.playlist
+*.Tmp
+*DS_Store*
+**/.vs/*
+*.psess
+*.vspx
+*.csproj.user
+*.log
+bin
+obj
+Profiling/*.xml
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
